@@ -1,2 +1,14 @@
-# movie_recommendation_engine-master
-아이템 기반 협업필터링을 통한 영화 추천 알고리즘 구현 (2019.6.16)
+# Movie Recommendation Engine
+
+Movie recommendation engine using Pearson correlation.  
+
+Compute correlation coefficient with user ratings and genre matching.  
+
+Recommend similar 10 movies to "The Dark Knight" as below:  
+
+![](https://github.com/kairess/movie_recommendation_engine/raw/master/result.png)  
+
+## Dependencies
+- Python 3
+- numpy
+- pandas
